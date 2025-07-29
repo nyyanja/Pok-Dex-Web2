@@ -226,7 +226,6 @@ const Pokedex = () => {
   const [selectedPokemon, setSelectedPokemon] = useState(null);
   const [currentPage, setCurrentPage] = useState(0);
   const [searchTerm, setSearchTerm] = useState('');
-  const [filterType, setFilterType] = useState('');
   const [types, setTypes] = useState([]);
   
   const pokemonPerPage = 20;
