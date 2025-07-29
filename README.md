@@ -1,12 +1,32 @@
-# React + Vite
+# Pokédex Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet est une application Pokédex développée avec Vite. Il permet de rechercher des Pokémon et d’afficher leurs détails.
 
-Currently, two official plugins are available:
+## Technologies utilisées
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite
+- HTML, CSS, JavaScript (ou React si utilisé)
+- API PokeAPI
 
-## Expanding the ESLint configuration
+## Fonctionnalités
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Recherche de Pokémon par nom
+- Affichage des informations détaillées dans une fenêtre modale
+- Interface responsive
+
+## Installation
+
+1. Cloner le dépôt Git
+2. Accéder au dossier du projet
+3. Installer les dépendances avec npm install
+4. Lancer le projet avec npm run dev
+
+## API
+
+Les données des Pokémon sont fournies par l’API publique : https://pokeapi.co
+
+## Auteur
+
+Nom : [RAMAHAVATRAHARISOA Ny Anja Manana]  
+
+
